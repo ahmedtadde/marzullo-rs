@@ -7,7 +7,7 @@ description = "Marzullo's algorithm"
 readme = "README.md"
 homepage = "https://github.com/ahmedtadde/marzullo-rs/"
 repository = "https://github.com/ahmedtadde/marzullo-rs/"
-license-file = "LICENSE.md"
+license-file = "LICENSE"
 keywords = ["clocks", "disttributed-systems", "marzullo", "true-time"]
 include = [
     "**/*.rs",
