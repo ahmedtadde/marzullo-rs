@@ -3,7 +3,7 @@
 A Rust implementation of the Marzullo algorithm
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![CI](https://img.shields.io/github/actions/workflow/status/ahmedtadde/marzullo/rust.yml)
+![CI](https://img.shields.io/github/actions/workflow/status/ahmedtadde/marzullo-rs/rust.yml)
 ![crates.io](https://img.shields.io/crates/d/marzullo)
 ![docs.rs](https://img.shields.io/docsrs/marzullo)
 
